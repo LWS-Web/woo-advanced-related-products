@@ -9,7 +9,7 @@ Replaces the default related products in single product view. You can change the
 1. Unzip the download package
 2. Upload `woo-advanced-related-products` to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Set options in Advanced `WooCommerce > Settings > Products > Advanced Related Products`
+4. Set options in `WooCommerce > Settings > Products > Advanced Related Products`
 
 ***
 
