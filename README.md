@@ -28,13 +28,13 @@ Activate to hide the Up-Sells.
 * Yes
 
 **Taxonomy**
-Select the taxonomy which generates the related products. Default: Product Categories
+Select the taxonomy which generates the related products.
 * Product Categories - Default
 * Product Tags
 
 **Order by**
-Select the general order of the related products. Default: Random
-* Random
+Select the general order of the related products.
+* Random - Default
 * Post ID
 * Post author
 * Post title
@@ -43,24 +43,24 @@ Select the general order of the related products. Default: Random
 * Menu order
 
 **Order**
-Select the sorting order of the related products. Default: Descending
+Select the sorting order of the related products.
 * Descending - Default
 * Ascending
 
 **Product Columns**
-The number of columns that products are arranged in. Default: 5
+The number of columns that products are arranged in.
 * 1
 * 2
 * 3
 * 4
-* 5
+* 5 - Default
 * 6
 * 7
 * 8
 
 **Products per page**
-The number of products shown on one page. Default: 5
-* Textfield to enter a number
+The number of products shown on one page.
+* Textfield to enter a number - Default: 5
 
 ***
 
